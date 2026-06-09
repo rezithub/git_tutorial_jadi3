@@ -1,1 +1,1 @@
-#adding satats by hamkar
+#this file will show the stats
